@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Ananya
 
-<!--
-**ananya027/ananya027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an engineering graduate currently transitioning into software development with a focus on front-end technologies. I'm passionate about creating responsive, accessible, and user-friendly web applications.
 
-Here are some ideas to get you started:
+### Key Skills:
+- **HTML5**, **CSS3**, Responsive Layouts (Flexbox, Grid)
+- **JavaScript** (ES6+, DOM Manipulation, Events)
+- **React** (Functional Components, Props, State, JSX)
+- **Version Control** with Git and GitHub
+- **UI/UX Principles** – accessibility, responsive design, usability
+- **Testing & Debugging Basics**
+- **Agile Workflows & Documentation**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects in Progress:
+- **Portfolio Website** – Built using HTML, CSS, and JavaScript
+- **Personal Budget Tracker** – Track and manage personal finances
+- **React Mini Projects** – Reusable components, single-page apps
+
+### Contact:
+- [LinkedIn](https://linkedin.com/in/ananyavashisht)  
+- [Email](mailto:ananyanot27@gmail.com)
